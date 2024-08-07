@@ -21,3 +21,5 @@ media, classificacao = calcular_media_e_classificao(nota1,nota2,nota3,nota4,nota
 
 print(f"média:{media:.2f}")
 print(f"Classificação: {classificacao}")
+
+#hello world
